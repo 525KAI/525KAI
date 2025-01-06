@@ -1,4 +1,4 @@
-<h1>Greetings, I am Malikai an aspiring <a href="https://linkedin.com/in/malikai-isaac">IT Professional</a>💻</h1>
+<h1>Greetings, I am Malikai an <a href="https://linkedin.com/in/malikai-isaac">aspiring IT Professional</a>💻</h1>
 
 <h2> ⬇️Information Technology Projects:</h2>
 
